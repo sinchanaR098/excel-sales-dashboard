@@ -28,5 +28,5 @@ This project demonstrates an interactive Sales Dashboard created using Microsoft
 - Excel Reporting
 - Data Visualization
 
-## 👩‍💻 Author
+##  Author
 Sinchana R
